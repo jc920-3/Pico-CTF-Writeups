@@ -1,0 +1,17 @@
+# Challenge: PW Crack 4 (Pico CTF)
+- **Category** General Skills, Password Cracking, Hashing
+- **Point Value**
+- **Tools Used** Python 3, Terminal, Oracle Virtualbox
+
+## Problem Description
+- Given an encrypted text file, level4.flag.txt.en, and a python script, level4.py, needed to find the flag. 100 different passwords were given, with only one being correct. A hashed .bin file is also given.
+## How i Solved
+- Used the Terminal to examine every file
+- Edited the level4.py file
+  - I added a for loop to automatically test every possible password, stopping when it reaches the correct one
+
+# Flag
+academy{fl45h_5pr1ng1ng_81dd449f}
+
+# What i Learned
+ How to properly run and format a for loop in python
