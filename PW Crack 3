@@ -1,0 +1,17 @@
+# Challenge: PW Crack 3 (Pico CTF)
+- **Category** General Skills, Password Cracking, Hashing
+- **Point Value**
+- **Tools Used** Python 3, Terminal, Oracle Virtualbox
+
+## Problem Description
+- Given an encrypted text file, level3.flag.txt.en, and a python script, level3.py, needed to find the flag. seven different passwords were given, with only one being correct. A hashed .bin file is also given.
+## How i Solved
+- Used the Terminal to examine every file
+- Ran the level3.py file using python3
+- Tested all seven passwords when prompted
+
+# Flag
+academy{m45h_fl1ng1ng_b8034615}
+
+# What i Learned
+ How to run a python script in the Linux terminal
